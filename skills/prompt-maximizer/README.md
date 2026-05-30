@@ -27,7 +27,7 @@ When a user gives a task, the skill rewrites the request into a stronger interna
 
 ## Recommended activation rule
 
-Add this to your main OpenClaw agent AGENTS.md file:
+Add this to your main OpenClaw agent **AGENTS.md** file:
 
 ```text
 Before executing any non-trivial user request, apply the prompt-maximizer skill silently.
