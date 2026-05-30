@@ -1,5 +1,6 @@
 ---
 name: prompt-maximizer
+author: ihgalis
 description: >
   Always improve user prompts before executing them. Use this skill whenever the user asks to write,
   improve, execute, analyze, plan, code, search, automate, or delegate a prompt/task. The skill rewrites
